@@ -1,0 +1,43 @@
+body{
+    margin: 0%;
+    padding: 0%x;
+}
+ul img{
+    width: 30px;
+    height: 30px;
+}
+nav{
+    display: flex;
+}
+.first-container{
+    display: flex;
+    gap: 47%;
+}
+.second-container{
+    display: flex;
+    gap: 3%;
+    
+}
+li{
+    list-style: none;
+}
+.swiggy-icon{
+    height: 30px;
+    width: 30px;
+    gap: 18%;
+}
+section{
+    background-color: beige;
+}
+.middle{
+    
+    width: 14cm;
+}
+nav{
+    justify-content: center;
+    gap: 19%;
+}
+#swiggy-icon{
+    height: 100px;
+    width: 100px;
+}
